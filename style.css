@@ -64,7 +64,7 @@
 .row{
     
     height: 500px;
-    box-shadow: 3px 3px 6px lightgray;
+    
 }
 .row img{
     width: 100%;
@@ -77,4 +77,10 @@
     width:170px;
     height: 170px;
     padding-top: 15px;
+}
+.contact-us{
+
+    height: 400px;
+    background-color: rgb(116, 111, 111);
+    color: #fff;
 }
